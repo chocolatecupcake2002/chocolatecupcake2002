@@ -5,10 +5,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-chandrasekaran-192514112/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-chandrasekaran-192514112/)<br>
 
-
-#Leetcode 👩‍💻
+## 👩‍💻 Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aishuchandrasekaran6?ext=activity)
 
 # 💻 Tech Stack:
