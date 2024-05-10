@@ -2,6 +2,7 @@
 ✨Aishwarya Chandrasekaran
 
  🙋‍♀️Hi! Welcome to my page!!! find repos on ML,DL, Application dev and leetcode solutions<br>😊Full stack developer<br>👩‍💻Problem Solver - Python/C++<br>
+Upcoming Associate data scientist and ex-developer intern at Sony SSUP.
 
 
 ## 🌐 Socials:
