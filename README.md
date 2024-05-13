@@ -1,9 +1,6 @@
 # 💫 About Me:
 ✨Aishwarya Chandrasekaran
 
- 🙋‍♀️Hi! Welcome to my page!!! find repos on ML,DL, Application dev and leetcode solutions<br>😊Full stack developer<br>👩‍💻Problem Solver - Python/C++<br>
-Upcoming Associate data scientist and ex-developer intern at Sony SSUP.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-chandrasekaran-192514112/)<br>
