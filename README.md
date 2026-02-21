@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya :)</h1>
 <h3 align="center">Data Scientists/ ML Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chocolatecupcake2002" alt="chocolatecupcake2002" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/juicyy_cabbage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juicyy_cabbage" height="30" width="40" /></a>
